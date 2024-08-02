@@ -23,7 +23,7 @@ jaxlib==0.3.0
 jaxline==0.0.5
 jmp==0.0.2
 joblib==1.1.0
-keras==2.8.0
+keras==2.13.1
 Keras-Preprocessing==1.1.2
 libclang==13.0.0
 Markdown==3.3.6
