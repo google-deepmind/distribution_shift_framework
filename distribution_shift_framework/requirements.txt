@@ -34,7 +34,7 @@ opt-einsum==3.3.0
 optax==0.1.1
 pkg_resources==0.0.0
 promise==2.3
-protobuf==3.19.4
+protobuf==5.29.6
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 PyYAML==6.0
