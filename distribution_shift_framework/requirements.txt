@@ -35,7 +35,7 @@ optax==0.1.1
 pkg_resources==0.0.0
 promise==2.3
 protobuf==3.19.4
-pyasn1==0.4.8
+pyasn1==0.6.3
 pyasn1-modules==0.2.8
 PyYAML==6.0
 requests==2.27.1
